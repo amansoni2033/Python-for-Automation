@@ -20,7 +20,7 @@
 
 <div align="center">
   <h1> 10 Days Of Python: Day 1 - Introduction</h1>
-  <sub>Author: AMAN SONI
+  <sub>Author:
   <a href="https://www.linkedin.com/in/aman-soni-779490153/" target="_blank">Aman Soni</a><br>
   <small> Python for Automation!🧡</small>
   </sub>

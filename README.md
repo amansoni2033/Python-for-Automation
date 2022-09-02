@@ -15,7 +15,7 @@
 | 09  |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)|
 | 10  |  [Loops](./10_Day_Loops/10_loops.md)|
 
-🧡🧡🧡 HAPPY CODING 🧡🧡🧡:Love:
+🧡🧡🧡 HAPPY CODING 🧡🧡🧡[top](#smileys--emotion)
 
 
 <div align="center">

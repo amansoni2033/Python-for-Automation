@@ -31,7 +31,7 @@
 
 ![10DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
 
-- [🐍 10 Days Of Python](#-30-days-of-python)
+- [ 🐍  10 Days Of Python](#-10-days-of-python)
 - [📘 Day 1](#-day-1)
   - [Welcome](#welcome)
   - [Introduction](#introduction)

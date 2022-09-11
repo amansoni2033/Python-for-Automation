@@ -4,7 +4,7 @@
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./readme.md)|
+| 01  |  [Introduction,Variables & Operator ](./readme.md)|
 | 02  |  [Variables & Operator](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
 | 03  |  [Data Type](./03_Day_Operators/03_operators.md)|
 | 04  |  [Strings](./04_Day_Strings/04_strings.md)|
